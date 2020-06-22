@@ -1,5 +1,5 @@
 #Variacion Poblacional
-#Analisis de Datos
+#Analisis de Datos con códigos básicos
 
 #Matriz de Datos
 #leer datos csv
