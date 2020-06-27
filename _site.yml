@@ -1,0 +1,14 @@
+--- 
+name: "LabEcoPob"
+navbar:
+  left: 
+    - 
+      menu: 
+        - 
+          href: basiccodes.R
+          text: Codigos Basicos
+
+  title: LabEcoPob
+  
+
+output_dir: "."
